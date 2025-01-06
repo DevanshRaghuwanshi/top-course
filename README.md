@@ -11,7 +11,7 @@
   <ul>
     <li><strong>Course Filtering:</strong> 
       <ul>
-        <li>A navigation bar with buttons for different fields (e.g., "Web Development", "Data Science", "Design").</li>
+        <li>A navigation bar with buttons for different fields (e.g., "Development", "Business", "Design").</li>
         <li>Clicking a field button filters the displayed courses to show only those related to the selected field.</li>
       </ul>
     </li>
