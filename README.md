@@ -51,7 +51,7 @@
     </li>
   </ol>
 
-  <h2>Screenshot</h2>
+  <h2>Screenshots</h2>
   <img src="./public/SS1.png" alt="Top Courses Screenshot"> 
   <img src="./public/SS2.png" alt="Top Courses Screenshot">
 
